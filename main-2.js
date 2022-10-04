@@ -6,3 +6,5 @@ const main5 = 'main5';
 
 const main6 = 'main6';
 const main7 = 'main7';
+
+const new_fe = 'new';
