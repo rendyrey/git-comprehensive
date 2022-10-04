@@ -8,3 +8,4 @@ const index1 = 'index1';
 
 
 const master = '1';
+const master2 = '2';
